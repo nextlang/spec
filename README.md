@@ -1,9 +1,10 @@
-# spec
+# Spec of Next Programming Language (In Progrress)
 
 Some cool features will be available soon. The main goal of the lannguage is to provide a similar mechaism to **Swift**'s `#available/@available` feature to deploy single binary to multiple platform versions. A VM or JIT or Booter will drop uavailable features fom binary on the fly. 
 
 Expectations:
 
+* Optimize workflow with Universal Shading Language (https://github.com/UniversalShading)
 * No garbage collector at runtime (thanks)
 * C codes or libary can be used diectly with no cost
 * High perfomance
