@@ -5,6 +5,10 @@ Some cool features will be available soon. The main goal of the lannguage is to 
 Expectations:
 
 * Optimize workflow with Universal Shading Language (https://github.com/UniversalShading)
+* Built-in float3, float4, mat3, mat4...
+* Built-in vector, matrix math
+* Built-in AI / Machine Learning helpers
+* Built-in CURL suppot (maybe)
 * No garbage collector at runtime (thanks)
 * C codes or libary can be used diectly with no cost
 * High perfomance
@@ -12,6 +16,10 @@ Expectations:
 * API, Platform availability check
 * Mutiple platform versions with single binary with `#available` 
 * Fast compilation
+* Small binary size
+* Operator and function overloading, custom operators
+* Simple
+* Package manager (or use https://github.com/unipkg)
 * ...
 
 ```Swift
