@@ -1,4 +1,4 @@
-# Spec of Next Programming Language (In Progrress)
+# Next Programming Language and Tools (In Progrress)
 
 Some cool features will be available soon. The main goal of the lannguage is to provide a similar mechaism to **Swift**'s `#available/@available` feature to deploy single binary to multiple platform versions. A VM or JIT or Booter will drop uavailable features fom binary on the fly. 
 
