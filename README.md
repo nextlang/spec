@@ -20,6 +20,7 @@ Expectations:
 * Operator and function overloading, custom operators
 * Simple
 * Package manager (or use https://github.com/unipkg)
+* Cross platform NextUI (https://github.com/nextlang/NextUI) or UniversalUI (https://github.com/UniversalUI) alternative to SwiftUI and Flutter
 * ...
 
 ```Swift
@@ -57,6 +58,7 @@ dosomething() {
 }
 
 #get("/index")
+@get("/index") // ?
 router() {
 
 }
