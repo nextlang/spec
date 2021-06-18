@@ -9,6 +9,7 @@ Expectations:
 * Built-in vector, matrix math
 * Built-in AI / Machine Learning helpers
 * Built-in CURL support (maybe)
+* Async/await support
 * No garbage collector at runtime (thanks)
 * C codes or libary can be used diectly with no cost
 * High perfomance
