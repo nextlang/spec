@@ -8,7 +8,7 @@ Expectations:
 * Built-in float3, float4, mat3, mat4...
 * Built-in vector, matrix math
 * Built-in AI / Machine Learning helpers
-* Built-in CURL suppot (maybe)
+* Built-in CURL support (maybe)
 * No garbage collector at runtime (thanks)
 * C codes or libary can be used diectly with no cost
 * High perfomance
